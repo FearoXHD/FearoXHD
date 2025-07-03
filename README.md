@@ -12,7 +12,7 @@
 
 ### 🚀 Quick Facts
 
-- 🖥️ Working with **Angular**, **C++**, and **Blender**
+- 🖥️ Working with **Angular**, **C++**, **ESP32** and **Blender**
 - 🌐 Building interactive web apps, system tools, and game mechanics
 - 📚 Currently diving into **IoT** and **embedded systems**
 - 🔧 I like creating things from scratch — logic-first, performance-aware
