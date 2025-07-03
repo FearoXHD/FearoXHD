@@ -66,7 +66,9 @@ Just look at my Repos 🤪
 - 🌙 Most productive late at Day  
 - 📐 Clean structure & code readability > hacks  
 - 🎮 Good user experience comes from tiny design choices  
-- 🔄 Always refactoring, always improving  
+- 🔄 Always refactoring, always improving
+- My best friend is 𝓒𝓱𝓪𝓽𝓖𝓟𝓣
+
 
 ---
 
