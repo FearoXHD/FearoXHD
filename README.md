@@ -15,11 +15,11 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default)
 
 ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=default)](https://git.io/streak-stats)
 
 
 
