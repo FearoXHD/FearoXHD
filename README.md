@@ -19,11 +19,11 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FearoXHD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=default)](https://git.io/streak-stats)
 
 ### Contribution Graph
 
-[![FearoX's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=FearoXHD&theme=default)](https://github.com/FearoXHD)
+[![FearoX's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&theme=default)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <!--
 **FearoXHD/FearoXHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
