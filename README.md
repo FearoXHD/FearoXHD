@@ -16,7 +16,7 @@
 ### 🧠 About Me
 
 - 📍 From Germany  
-- 🖥️ Working with **Angular**, **C++**, and **Blender**  
+- 🖥️ Working with **Angular**, **C++**, **ESP32** and **Blender**  
 - 📚 Learning more about **IoT** and **embedded systems**  
 - 🔨 Building tools, apps, and game ideas in my free time  
 
