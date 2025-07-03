@@ -9,7 +9,7 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 ### About me
 
 - 📍 From Germany  
-- 🖥️ Working with Angular, Python, and Blender  
+- 🖥️ Working with Angular, C++, and Blender  
 - 📖 Currently learning more about IoT and embedded systems  
 - 🛠️ Enjoy building small tools, web apps, and game ideas  
 
