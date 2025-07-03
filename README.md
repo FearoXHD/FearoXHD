@@ -15,18 +15,17 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### GitHub Stats
 
-<p aligh="center"><img> src="https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default"</p>
+[![GitHub Stats]https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default
 
 ### Streak Stats
 
- <p aligh="center"><img> src="[https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default](https://streak-stats.demolab.com?user=FearoXHD&theme=default)](https://git.io/streak-stats)"</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=hacker)](https://git.io/streak-stats)
+
 
 
 ### Contribution Graph
 
-<p align="center">[![FearoX's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&theme=default)](https://github.com/Ashutosh00710/github-readme-activity-graph)</p>
-<p aligh="center"><img> src="https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default"</p>
-
+[![FearoX's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&theme=default)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--
 **FearoXHD/FearoXHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
