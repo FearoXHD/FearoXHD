@@ -20,8 +20,7 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=vue)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=FearoXHD&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Contribution Graph
 
