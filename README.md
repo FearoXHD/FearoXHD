@@ -24,8 +24,7 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### Contribution Graph
 
-[![FearoX's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&theme=hacker)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+[![FearoX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&bg_color=ffffff&color=000000&line=2bff00&point=00d5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **FearoXHD/FearoXHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
