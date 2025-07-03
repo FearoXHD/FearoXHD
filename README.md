@@ -15,7 +15,7 @@ I'm a passionate developer from Germany. I enjoy working on web applications, 3D
 
 ### GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=default)]
 
 ### Streak Stats
 
