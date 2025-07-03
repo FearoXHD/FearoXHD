@@ -2,9 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ5ZjJwaXJnNDlwYWp6a3Fjb2VmMTRuaG96NW5qYzlpazdva2J4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="160" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm FearoX 👋</h1>
+<h1>Hi, I'm FearoX 👋</h1>
 
-<p align="center">
+<p>
   Developer from Germany 🇩🇪 focused on building tools, web apps, 3D experiences, and exploring IoT and embedded tech.
 </p>
 
