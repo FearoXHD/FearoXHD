@@ -46,8 +46,6 @@ Just look at my Repos 🤪
   <img src="https://github-readme-stats.vercel.app/api?username=FearoXHD&show_icons=true&theme=dark" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=FearoXHD&theme=github-dark&date_format=j%20M%5B%20Y%5D" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FearoXHD&bg_color=ffffff&color=000000&line=2bff00&point=00d5ff&area=true&hide_border=true" />
 </p>
 
 ---
